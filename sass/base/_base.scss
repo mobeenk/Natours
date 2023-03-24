@@ -1,0 +1,17 @@
+*,
+*::before , *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%; 
+    /* root font size which is 1 rem , 10/16 = 62.5%*/
+}
+
+body {
+
+    box-sizing: border-box;
+    /* border-box will make width,height includes padding part in box */
+}
