@@ -1,0 +1,14 @@
+ clip-path
+ use website:  https://bennettfeely.com/clippy/
+
+
+ setting up sass by :
+ 1- npm init
+ 2- install sass golbally
+ npm i sass -g
+ 3- add in package.json 
+   "scripts": {
+    "sass": "sass --watch sass/style.scss css/style2.css"
+  },
+  4- run it by
+  npm start sass
