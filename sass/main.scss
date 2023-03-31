@@ -8,11 +8,22 @@
 @import "base/utilities";
 
 @import "pages/home";
+
 @import "components/button";
+@import "components/composisition";
+@import "components/feature-box";
+@import "components/card";
+@import "components/story";
+@import "components/bg-video";
+@import "components/form";
+@import "components/popup";
 
 @import "layout/header";
 
-@import "layout/grid"
+@import "layout/grid";
+@import "layout/footer";
+@import "layout/navigation";
+
 // :root {
 //     --color-light-green1: #7ed56f;
 //     --color-light-green2: #55c57a;
